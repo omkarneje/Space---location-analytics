@@ -1,6 +1,7 @@
 # User Analysis App
 
-![alt text](location-analytics1.jpeg)
+![location-analytics1](https://github.com/omkarneje/Space---location-analytics/assets/57482408/2affb3ff-f2ed-476a-b80d-616bb32aea18)
+
 
 ## Overview
 
